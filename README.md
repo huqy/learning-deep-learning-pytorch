@@ -30,9 +30,9 @@ This folder contains the slides in PDFs and colab demos for the "Learning Deep L
 #### Improving CNNs Performance
  - When: Oct 29, 2020 10am-12:00pm
  - Please [register to the Zoom meeting](https://ucla.zoom.us/meeting/register/tJErd-6grTorGN0BJ81gThyPtBSue7TYPbRA) before joining
+ - Improving CNNs Performance Demo [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://bit.ly/LDL_03)
 <!--
 - [Slides](https://huqy.github.io/idre-learning-deep-learning-pytorch/5_DL_adv.pdf)
-- [Colab Demo](http://bit.ly/LDL_03)
 -->
 
 #### Generative Adversarial Networks 
