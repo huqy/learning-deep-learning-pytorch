@@ -36,9 +36,9 @@ This folder contains the slides in PDFs and colab demos for the "Learning Deep L
 #### Generative Adversarial Networks 
  - When: Nov 3, 2020 10am-12:00pm
  - Please [register to the Zoom meeting](https://ucla.zoom.us/meeting/register/tJMrduCtqz0uGNePF3cHIPxsdsCQJCxiBGYz) before joining
+ - GANs Demo [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://bit.ly/LDL_05)
 <!--
 - [Slides](https://huqy.github.io/idre-learning-deep-learning-pytorch/6_DL_rnn.pdf)
-- [Colab Demo](http://bit.ly/LDL_05)
 -->
 
 ---
