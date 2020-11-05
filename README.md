@@ -37,15 +37,11 @@ This folder contains the slides in PDFs and colab demos for the "Learning Deep L
  - When: Nov 3, 2020 10am-12:00pm
  - Please [register to the Zoom meeting](https://ucla.zoom.us/meeting/register/tJMrduCtqz0uGNePF3cHIPxsdsCQJCxiBGYz) before joining
  - GANs Demo [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://bit.ly/LDL_05)
-<!--
-- [Slides](https://huqy.github.io/idre-learning-deep-learning-pytorch/6_DL_rnn.pdf)
--->
+ - [Slides](https://huqy.github.io/idre-learning-deep-learning-pytorch/6_DL_gan.pdf)
 
 ---
 
-<!--
-### Series Survey: [bit.ly/2X2phyS](https://bit.ly/2X2phyS)
--->
+### Series Survey: [bit.ly/LDL_survey](http://bit.ly/LDL_survey)
 
 ### Welcome to join the support discussion at Slack: [bit.ly/Join-LDL](https://bit.ly/Join-LDL)
 
